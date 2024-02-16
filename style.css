@@ -1,0 +1,78 @@
+.cont{
+margin: auto;
+width: 400px;
+height: 500px;
+background-color: gray;
+text-align: center;
+color: white;
+}
+.sing{
+    display: flex;
+    text-align: center;
+    width: 350px;
+    margin: auto;
+  
+
+ 
+    
+}
+h3{
+    margin: auto;
+    cursor: pointer;
+}
+#nm{
+    
+    display: block;
+}
+#cl{
+    color: white;
+    background-color: aqua;
+    
+    padding: 10px;
+width: 150px;
+    
+}
+#cl1{
+    color: white;
+    
+    
+    padding: 10px;
+width: 150px;
+}
+.color{
+    color: white;
+    background-color: aqua !important;
+    padding: 10px;
+width: 150px;
+}
+.color2{
+    background-color: gray  ;
+}
+
+.displaycolor{
+    background-color: gray !important  ;
+}
+.displaycolor2{
+    background-color: aqua ;
+}
+#email{
+    width: 91%;
+}
+#Password{
+    width: 91%;
+}
+input{
+    margin: 5px;
+    padding: 5px;
+}
+button{
+    padding: 20px;
+    width: 100px;
+    border-radius: 5px;
+    border: none;
+    cursor:pointer ;
+    margin-top: 20px;
+}
+button:hover{
+    background-color: aquamarine;
+}
